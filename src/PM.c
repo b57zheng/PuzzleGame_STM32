@@ -7,7 +7,7 @@
 
 ///////////////////////
 // Initializing Pins //
-///////////////////////S
+///////////////////////
 
 // Initialize a pin (or pins) to a particular mode, with optional pull-up or pull-down resistors
 // and possible alternate function
