@@ -1,11 +1,17 @@
+/////////////////////////////////////////////////////////////////////////
 // Code for pattern matcher
-// Writen by Kelvin Peng and Bowen Zheng, October 2021
+// Authors:  Kelvin Peng, Computer Science, University of Waterloo
+//           Bowen Zheng, Electrical Engineering, University of Waterloo
+// Date:     November 2021
+/////////////////////////////////////////////////////////////////////////
 
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-
 #include "PM.h"
+
+int main(void);
+void SysTick_Handler(void);
 
 int main(void)
 {
@@ -15,13 +21,13 @@ int main(void)
     // Peripherals are disabled by defalt 
     // We use the Reset and Clock COntrol registers to enable the GPIO peripherals
 
-    // enable port A for theh on-board LED
+    // enable port A for the on-board LED
     __HAL_RCC_GPIOA_CLK_ENABLE();
     // enable port B for the rotary encoder inputs
     __HAL_RCC_GPIOB_CLK_ENABLE();
     // enbale port C for on-board push buttons
     __HAL_RCC_GPIOC_CLK_ENABLE();
-    // set up for serial commnication (serial monitor) to the computer
+    // set up for serial commnication to the computer
     SerialSetup(9600);
 
     // total numbe of flashes for the pattern
@@ -110,16 +116,19 @@ int main(void)
         //LED ON if user matched the pattern
         if (wrongPattern)
         {
-            const int FAILED_FLASHES = 2;
-            const int FAILED_FLASH_LEN = 100;
-            const int FAILED_CD_LEN = 1000;
+            const int FAILED_FLASHES = 2;              // # of flashes to indicate a failed game
+            const int FAILED_FLASH_LEN = 100;          // failed flash length
+            const int FAILED_CD_LEN = 1000;            // failed cooldown
             for (int i = 0; i < FAILED_FLASHES; ++i)
             {
+                // LED ON for failed flash length
                 HAL_GPIO_WritePin(LEDPort, LEDPin, 1);
                 HAL_Delay(FAILED_FLASH_LEN);
+                // LED OFF for failed flash length
                 HAL_GPIO_WritePin(LEDPort, LEDPin, 0);
                 HAL_Delay(FAILED_FLASH_LEN);
             }
+            // cooldown for a failed game
             HAL_Delay(FAILED_CD_LEN);
         }
         else
