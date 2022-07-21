@@ -1,0 +1,595 @@
+push graphic-context
+encoding "utf-8"
+viewbox 0 0 360 380
+affine 1 0 0 1 0 0
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,170 20,340
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,170 60,170
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,150 60,150
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,50 20,150
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,40 20,50
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-width 2
+rectangle 70,120 170,320
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,130 70,130
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,150 70,150
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,170 70,170
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,190 70,190
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,210 70,210
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,230 70,230
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,250 70,250
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,270 70,270
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,290 70,290
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 60,310 70,310
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,130 180,130
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,150 180,150
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,170 180,170
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,190 180,190
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,210 180,210
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,230 180,230
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,250 180,250
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 170,270 180,270
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 130
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,130 '7'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 150
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,150 '6'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 170
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,170 '5'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 190
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,190 '4'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 210
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,210 '3'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 230
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,230 '2'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 250
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,250 '1'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 270
+text 0,0 'I'
+push graphic-context
+font-size 9.6
+text 79,270 '0'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 290
+text 74,290 'adc'
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'start'
+affine 1 0 0 1 74 310
+text 74,310 'R'
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 130
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,130 '7'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 150
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,150 '6'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 170
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,170 '5'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 190
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,190 '4'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 210
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,210 '3'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 230
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,230 '2'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 250
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,250 '1'
+pop graphic-context
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 270
+text 0,0 'Q'
+push graphic-context
+font-size 9.6
+text 177,270 '0'
+pop graphic-context
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 1
+line 74,302.5 82,302.5
+pop graphic-context
+push graphic-context
+font-family 'Arial'
+font-size 12
+text-anchor 'end'
+affine 1 0 0 1 166 310
+text 166,310 'µController'
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,280 220,340
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,270 220,280
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,220 220,237
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,263 220,270
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 180,250 206,250
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 3
+line 205.5,242 205.5,258
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,237 205.5,246
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 205.5,254 220,263
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-width 2
+ellipse 210,250 16,16 0,360
+pop graphic-context
+push graphic-context
+fill-opacity '1'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+path 'M 212,257 L 216,255 L 217,262 L 211,258 L 213,257'
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,220 220,230
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,180 220,220
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,120 220,130
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,130 220,135
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,175 220,180
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+path 'M 220,135 L 220,137 L 213,140 L 227,146 L 213,152 L 227,158 L 213,164 L 227,170 L 220,173 L 220,175'
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,130 220,135
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,175 220,180
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+path 'M 220,135 L 220,137 L 213,140 L 227,146 L 213,152 L 227,158 L 213,164 L 227,170 L 220,173 L 220,175'
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,110 220,120
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,80 220,110
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,80 220,50
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+path 'M 220,58 M 212,58 L 228,58 M 220,58 L 228,73 L 212,73 L 220,58'
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 220,40 220,50
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,340 320,340
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,190 320,340
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,180 320,190
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,170 320,181
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-width 2
+ellipse 320,165 16,16 0,360
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,149 320,160
+pop graphic-context
+push graphic-context
+fill-opacity '0'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+path 'M 320,165 M 320,175 L 320,167 M 316,171 L 324,171 M 316,157 L 324,157'
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,140 320,150
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,60 320,140
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,50 320,60
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 20,40 320,40
+pop graphic-context
+push graphic-context
+stroke 'rgb(0, 0, 0)'
+stroke-linecap 'square'
+stroke-width 2
+line 320,40 320,50
+pop graphic-context
+push graphic-context
+fill-opacity '1'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-width 2
+ellipse 220,340 2,2 0,360
+pop graphic-context
+push graphic-context
+fill-opacity '1'
+fill 'rgb(0, 0, 0)'
+stroke 'rgb(0, 0, 0)'
+stroke-width 2
+ellipse 220,40 2,2 0,360
+pop graphic-context
+pop graphic-context
